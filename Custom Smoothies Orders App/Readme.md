@@ -12,8 +12,11 @@ The app is scripted to input the customers entered data into another 'Pending Or
 
 The app was deployed on Streamlit from Github with the file contents below.
 
+The deployed app can be viewed and interacted with on Streamlit using this link:  <a href="https://melaniessmoothies-s3xgls5snxog4mvx4vnbmr.streamlit.app/">Custom Smoothie Orders App </a>
 
-  <img src="custom_smoothie_app.png" alt="Custom Smoothie Orders Interface" width="400">
+
+</p>
+  <img src="custom_smoothie_app.png" alt="Custom Smoothie Orders Interface" width="1000">
 </p>
 
 
