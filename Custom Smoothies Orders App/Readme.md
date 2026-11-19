@@ -12,10 +12,9 @@ The app is scripted to input the customers entered data into another 'Pending Or
 
 The app was deployed on Streamlit from Github with the file contents below.
 
-<p align="center">
+
   <img src="custom_smoothie_app.png" alt="Custom Smoothie Orders Interface" width="400">
 </p>
-<p align="center">
 
 
 ## Folder Contents
