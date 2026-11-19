@@ -10,11 +10,12 @@ Customers would input their name for the order, then select up to 5 fruit option
 
 The app is scripted to input the customers entered data into another 'Pending Orders app' for the diner's kitchen to fulfill the order (see Pending Orders folder for SQL files for this app).
 
-The app was deployed on Streamlit from Github with the file contents below.
+The app was deployed on Streamlit from Github with the file contents below which can be found in the <a href="https://github.com/hjones87/melanies_smoothies">melanies-smoothie Respository </a>
+
 
 The deployed app can be viewed and interacted with on Streamlit using this link:  <a href="https://melaniessmoothies-s3xgls5snxog4mvx4vnbmr.streamlit.app/">Custom Smoothie Orders App </a>
 
-
+<br>
 </p>
   <img src="custom_smoothie_app.png" alt="Custom Smoothie Orders Interface" width="1000">
 </p>
