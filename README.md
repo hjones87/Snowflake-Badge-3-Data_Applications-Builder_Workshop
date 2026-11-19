@@ -3,7 +3,7 @@
 ## Achievement
 
 <p align="center">
-  <img src="Badge_2.png" alt="Hands On Essentials: Data Application Builder (Badge 3)" width="300">
+  <img src="Badge_3.png" alt="Hands On Essentials: Data Application Builder (Badge 3)" width="300">
 </p>
 <p align="center">
   🏅 <strong>Completed 19 November 2026</strong>
